@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542094453074.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "88D9D43A",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1542094453074,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "655DD00D",
+        "caption" : "avocado",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=avocado&cache_key=655DD00D",
+        "displayedObservations" : 18249,
+        "environment" : "",
+        "object" : "avocado",
+        "preview" : 0,
+        "totalObservations" : 18249,
+        "variables" : 14
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542168965801.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "44815287",
+    "id" : "F9552D39",
+    "lastKnownWriteTime" : 1542089870,
+    "last_content_update" : 1542089870,
+    "path" : "~/Desktop/git/hw07-Irissq28/foofactors_package/foofactors/R/fdesc.R",
+    "project_path" : "R/fdesc.R",
+    "properties" : {
+        "cursorPosition" : "9,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

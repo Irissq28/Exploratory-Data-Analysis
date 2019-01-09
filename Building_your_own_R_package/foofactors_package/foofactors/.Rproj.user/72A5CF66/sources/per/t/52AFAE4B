@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542175387515.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1111552963",
+    "id" : "52AFAE4B",
+    "lastKnownWriteTime" : 1542089092,
+    "last_content_update" : 1542089092,
+    "path" : "~/Desktop/git/hw07-Irissq28/foofactors_package/foofactors/R/df_write.R",
+    "project_path" : "R/df_write.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,3 @@
+"0","lev <- levels(gapminder::gapminder$continent) "
+"0","continent_df <- as.data.frame(lev)"
+"0","df_write(continent_df, ""continent.txt"")"

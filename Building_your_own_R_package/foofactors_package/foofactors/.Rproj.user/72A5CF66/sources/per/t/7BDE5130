@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542169645560.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2285521930",
+    "id" : "7BDE5130",
+    "lastKnownWriteTime" : 1542089869,
+    "last_content_update" : 1542089869,
+    "path" : "~/Desktop/git/hw07-Irissq28/foofactors_package/foofactors/R/fordered.R",
+    "project_path" : "R/fordered.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

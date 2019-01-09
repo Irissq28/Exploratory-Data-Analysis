@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542828650137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3155362548",
+    "id" : "262ACE85",
+    "lastKnownWriteTime" : 1542830709,
+    "last_content_update" : 1542830709037,
+    "path" : "~/Desktop/git/hw08-Irissq28/bcl-data/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "24,35",
+        "scrollLine" : "21"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542171214246.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3545499866",
+    "id" : "E629B5D9",
+    "lastKnownWriteTime" : 1542175415,
+    "last_content_update" : 1542175415961,
+    "path" : "~/Desktop/git/hw07-Irissq28/foofactors_package/foofactors/R/df_read.R",
+    "project_path" : "R/df_read.R",
+    "properties" : {
+        "cursorPosition" : "4,10",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
